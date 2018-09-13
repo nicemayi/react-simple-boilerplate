@@ -1,8 +1,7 @@
 {
-  "name": "fe-boilerplate",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "name": "react-simple-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple customized react boilerplate",
   "scripts": {
     "clear": "rimraf ./build",
     "build": "yarn run clear && webpack --config webpack-config/webpack.config.js --mode production",
@@ -10,7 +9,7 @@
     "test": "jest",
     "lint": "eslint ."
   },
-  "keywords": [],
+  "keywords": ["React", "Jest", "Boilerplate"],
   "author": "Zhe Wang <wangzhe.dut@gmail.com> (http://github.com/nicemayi)",
   "license": "MIT",
   "dependencies": {
