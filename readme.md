@@ -9,3 +9,17 @@ yarn add webpack-dev-server -D
 yarn add jest babel-jest react-test-renderer -D
 yarn add enzyme enzyme-adapter-react-16 -D
 yarn add eslint babel-eslint eslint-plugin-react -D
+
+dev-flow
+eslint
+jest
+build
+wds
+babel
+
+lint-ignore
+gitignore
+
+webpack-config
+
+css/sass/scss
