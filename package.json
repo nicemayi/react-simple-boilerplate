@@ -9,12 +9,21 @@
     "test": "jest",
     "lint": "eslint ."
   },
-  "keywords": ["React", "Jest", "Boilerplate"],
+  "keywords": [
+    "React",
+    "Jest",
+    "Redux",
+    "React Router",
+    "Boilerplate"
+  ],
   "author": "Zhe Wang <wangzhe.dut@gmail.com> (http://github.com/nicemayi)",
   "license": "MIT",
   "dependencies": {
     "react": "^16.5.0",
-    "react-dom": "^16.5.0"
+    "react-dom": "^16.5.0",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.1",
